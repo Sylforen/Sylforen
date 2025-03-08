@@ -1,5 +1,5 @@
 ## Hi there 👋
-<div align="center" style="width: 100;">
+<div align="center">
 
 | About Me | Introduction |
 |  :---: | :---: |
