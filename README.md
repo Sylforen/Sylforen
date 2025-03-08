@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <p style="margin-right: 20px;">This is the first paragraph. It is centered on the screen.</p>
-  <p style="margin-left: 20px;">This is the second paragraph. It is also centered on the screen.</p>
-</div>
+| About Me | Introduction |
+|  :---: | :---: |
 
 ## Tech Stack
 
