@@ -31,8 +31,9 @@
 
 <div align="center">
 
+| | |
 |  :---: | :---: |
-| <img src="https://picsum.photos/500/200" alt="W3Schools.com"> |  <img src="https://picsum.photos/500/200" alt="W3Schools.com"> |
+| <img src="https://picsum.photos/500/350" alt="W3Schools.com"> |  <img src="https://picsum.photos/500/350" alt="W3Schools.com"> |
 
 </div>
 
