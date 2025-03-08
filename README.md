@@ -17,9 +17,9 @@
 <div>
   <table border="0">
     <tr>
-      <td align="center"><a href="[URL1](https://docs.python.org/3/)"><img src="Images/Tech Stack/python-logo-only.png" alt="Python Logo" hspace="10" width="50" height="50" style="margin: 10px; padding: 5px;"></a></td>
+      <td align="center"><a href="https://docs.python.org/3/)"><img src="Images/Tech Stack/python-logo-only.png" alt="Python Logo" hspace="10" width="50" height="50" style="margin: 10px; padding: 5px;"></a></td>
       <td align="center"><a href="https://www.tensorflow.org/api_docs"><img src="Images/Tech Stack/15658638.png" alt="TensorFlow Logo" hspace="10" width="50" height="50" style="margin: 10px; padding: 5px;"></a></td>
-      <td align="center"><a href="(https://pytorch.org/docs/stable/index.html)"><img src="Images/Tech Stack/Pytorch_logo.png" alt="PyTorch Logo" hspace="30"  width="100" height="40" style="margin: 10px; padding: 5px;"></a></td>
+      <td align="center"><a href="https://pytorch.org/docs/stable/index.html"><img src="Images/Tech Stack/Pytorch_logo.png" alt="PyTorch Logo" hspace="30"  width="100" height="40" style="margin: 10px; padding: 5px;"></a></td>
       <td align="center"><a href="https://docs.godotengine.org/en/stable/"><img src="Images/Tech Stack/gd.png" alt="Godot Logo" hspace="10" width="50" height="50" style="margin: 10px; padding: 5px;"></a></td>
       <td align="center"><a href="https://devdocs.io/cpp/"><img src="Images/Tech Stack/cpp_logo.png" alt="C++ Logo" hspace="10" width="50" height="50" style="margin: 10px; padding: 5px;"></a></td>
       <td align="center"><a href="https://kotlinlang.org/docs/home.html"><img src="Images/Tech Stack/Kotlin Full Color Logo Mark RGB.png" alt="Kotlin Logo" hspace="10" width="50" height="50" style="margin: 10px; padding: 5px;"></a></td>  
