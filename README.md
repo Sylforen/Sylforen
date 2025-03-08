@@ -1,8 +1,11 @@
 ## Hi there 👋
+<div align="center">
 
 | About Me | Introduction |
 |  :---: | :---: |
+| Content for About Me | Content for Introduction |
 
+</div>
 ## Tech Stack
 
 <div align="center">
