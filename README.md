@@ -2,9 +2,9 @@
 
  <img src="https://picsum.photos/1000/200" alt="W3Schools.com"> 
 
----
-  
 </div>
+
+---
 
 <div align="center">
 
@@ -29,6 +29,14 @@
 
 ---
 
+<div align="center">
+
+|  :---: | :---: |
+| <img src="https://picsum.photos/500/200" alt="W3Schools.com"> |  <img src="https://picsum.photos/500/200" alt="W3Schools.com"> |
+
+</div>
+
+---
 
 <div align="center">
   <p>
