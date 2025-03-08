@@ -27,8 +27,8 @@
 <div align="center">
   <a href="URL1"><img src="Images/Social Media/badge-color.png" alt="Image 1" width="100" height="100"></a>
   <a href="URL2"><img src="Images/Social Media/LI-Logo.png" alt="Image 2" width="100" height="100"></a>
-  <a href="URL3"><img src="IMAGE_URL3" alt="Images/Social Media/Discord-Symbol-Blurple.png" width="100" height="100"></a>
-  <a href="URL3"><img src="IMAGE_URL3" alt="Images/Social Media/Spotify_Primary_Logo_RGB_Green.png" width="100" height="100"></a>
+  <a href="URL3"><img src="Images/Social Media/Discord-Symbol-Blurple.png" alt="" width="100" height="100"></a>
+  <a href="URL3"><img src="Images/Social Media/Spotify_Primary_Logo_RGB_Green.png" alt="" width="100" height="100"></a>
 </div>
 
 <!--
