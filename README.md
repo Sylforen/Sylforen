@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div style="text-align: center;">
+  <p style="margin-bottom: 50px;">This is the first paragraph. It is centered on the screen.</p>
+  <p>This is the second paragraph. It is also centered on the screen.</p>
+</div>
 
 ## Tech Stack
 
