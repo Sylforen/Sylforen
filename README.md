@@ -1,8 +1,13 @@
 ## Hi there 👋
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <p style="margin-right: 20px;">This is the first paragraph. It is centered on the screen.</p>
+ 
   <div style="border-left: 2px solid black; height: 100px; margin: 0 20px;"></div>
+ 
+</div>
+
+<div style="display: flex; flex-direction: row;">
+  <p style="margin-right: 20px;">This is the first paragraph. It is centered on the screen.</p>
   <p style="margin-left: 20px;">This is the second paragraph. It is also centered on the screen.</p>
 </div>
 
