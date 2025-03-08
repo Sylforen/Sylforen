@@ -3,9 +3,6 @@
  <img src="https://picsum.photos/1000/200" alt="W3Schools.com"> 
 
 </div>
-
----
-
 <div align="center">
 
 | Introduction | About Me |
@@ -28,7 +25,6 @@
     </tr>
   </table>
 </div>
----
 
 <div align="center">
 
@@ -38,12 +34,8 @@
 
 </div>
 
----
-
 <div align="center">
-  <p>
-    Social Media
-  </p> 
+ 
   <a href="URL1"><img src="Images/Social Media/badge-color.png" alt="Image 1"  width="100" height="50" style="padding: 300px;"></a>
   <a href="URL2"><img src="Images/Social Media/LI-Logo.png" alt="Image 2"  width="100" height="50" style="padding: 300px;"></a>
   <a href="URL3"><img src="Images/Social Media/Discord-Symbol-Blurple.png" alt="" width="50" height="50" style="padding: 300px;"></a>
