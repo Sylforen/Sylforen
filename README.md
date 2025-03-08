@@ -1,10 +1,8 @@
-## Hi there 👋
+<div align="center">
+
+ <img src="https://picsum.photos/1000/200" alt="W3Schools.com"> 
+
 ---
-
-<div>
-
-<img href="https://picsum.photos/200/300>
-
   
 </div>
 
@@ -14,8 +12,8 @@
 |  :---: | :---: |
 | Content for About Me | Content for Introduction |
 
+<p>Tech Stack</p>
 </div>
-
 
 
 <div align="center">
@@ -27,20 +25,22 @@
   <a href="URL3"><img src="Images/Tech Stack/cpp_logo.png" alt="Image 3" width="50" height="50" style="padding: 300;"></a>
   <a href="URL3"><img src="Images/Tech Stack/blender_logo.png" alt="Image 3" width="75" height="50" style="padding: 300;"></a>
   <a href="URL3"><img src="Images/Tech Stack/Kotlin Full Color Logo Mark RGB.png" alt="Image 3" width="50" height="50" style="padding: 300;"></a>
-  
 </div>
 
+---
 
-
-## Cross-Platform Links
 
 <div align="center">
-  
+  <p>
+    Social Media
+  </p> 
   <a href="URL1"><img src="Images/Social Media/badge-color.png" alt="Image 1" width="75" height="50" style="padding: 300px;"></a>
   <a href="URL2"><img src="Images/Social Media/LI-Logo.png" alt="Image 2" width="75" height="50" style="padding: 300px;"></a>
   <a href="URL3"><img src="Images/Social Media/Discord-Symbol-Blurple.png" alt="" width="50" height="50" style="padding: 300px;"></a>
   <a href="URL3"><img src="Images/Social Media/Spotify_Primary_Logo_RGB_Green.png" alt="" width="50" height="50" style="padding: 300px;"></a>
+  
 </div>
+
 
 <!--
 **Sylforen/Sylforen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
