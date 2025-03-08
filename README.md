@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-<div style="text-align: center;">
-  <p style="margin-bottom: 50px;">This is the first paragraph. It is centered on the screen.</p>
-  <p>This is the second paragraph. It is also centered on the screen.</p>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <p style="margin-right: 20px;">This is the first paragraph. It is centered on the screen.</p>
+  <div style="border-left: 2px solid black; height: 100px; margin: 0 20px;"></div>
+  <p style="margin-left: 20px;">This is the second paragraph. It is also centered on the screen.</p>
 </div>
 
 ## Tech Stack
