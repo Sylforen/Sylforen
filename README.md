@@ -5,14 +5,14 @@
 
 <div align="center">
   
-  <a href="URL1"><img src="Images/Tech Stack/python-logo-only.png" alt="Image 1" width="50" height="50" style="padding: 300px;"></a>
-  <a href="URL3"><img src="Images/Tech Stack/15658638.png" alt="Image 3" width="50" height="50" style="padding: 300px;"></a>
-  <a href="URL3"><img src="Images/Tech Stack/Pytorch_logo.png" alt="Image 3" width="75" height="50" style="padding: 300px;"></a>
-  <a href="URL2"><img src="Images/Tech Stack/gd.png" alt="Image 2" width="50" height="50" style="padding: 300px;"></a>
-  <a href="URL3"><img src="Images/Tech Stack/java-logo.jpg" alt="" width="75" height="50" style="padding: 300px;"></a>
-  <a href="URL3"><img src="Images/Tech Stack/cpp_logo.png" alt="Image 3" width="50" height="50" style="padding: 300px;"></a>
-  <a href="URL3"><img src="Images/Tech Stack/blender_logo.png" alt="Image 3" width="75" height="50" style="padding: 300px;"></a>
-  <a href="URL3"><img src="Images/Tech Stack/Kotlin Full Color Logo Mark RGB.png" alt="Image 3" width="50" height="50" style="padding: 300px;"></a>
+  <a href="URL1"><img src="Images/Tech Stack/python-logo-only.png" alt="Image 1" width="50" height="50" style="padding: 300;"></a>
+  <a href="URL3"><img src="Images/Tech Stack/15658638.png" alt="Image 3" width="50" height="50" style="padding: 300;"></a>
+  <a href="URL3"><img src="Images/Tech Stack/Pytorch_logo.png" alt="Image 3" width="75" height="50" style="padding: 300;"></a>
+  <a href="URL2"><img src="Images/Tech Stack/gd.png" alt="Image 2" width="50" height="50" style="padding: 300;"></a>
+  <a href="URL3"><img src="Images/Tech Stack/java-logo.jpg" alt="" width="75" height="50" style="padding: 300;"></a>
+  <a href="URL3"><img src="Images/Tech Stack/cpp_logo.png" alt="Image 3" width="50" height="50" style="padding: 300;"></a>
+  <a href="URL3"><img src="Images/Tech Stack/blender_logo.png" alt="Image 3" width="75" height="50" style="padding: 300;"></a>
+  <a href="URL3"><img src="Images/Tech Stack/Kotlin Full Color Logo Mark RGB.png" alt="Image 3" width="50" height="50" style="padding: 300;"></a>
   
 </div>
 
