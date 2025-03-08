@@ -4,32 +4,33 @@
 
 </div>
 
-
 <div align="center">
 
 <table>
-  <tr>
-    <td>
-      <h1>Introduction</h1>
+  <tr><td><h2>Introduction</h2>
+   <br>
       Hello! I'm Sylforen, and I am currently pursuing a degree in Software Engineering at the University of Newcastle. I come from a background in Chemistry - working for three years as a Lab Rat! I have always had simple curiosity about how things work, which quickly evolved into a deep passion for programming and robotics. I thrive on challenges and love pushing the boundaries of technology to create innovative solutions.
-      <br><br>
+      <br><br><br>
       From a young age, I've been fascinated by the 'hows' and 'whys' of the world around me. This curiosity has driven me to work as a QA/QC Chemist, exploring the intricate mechanisms behind various chemical systems, or given me curiosity into the inner workings of computer systems, or the complex behavior of robotics.
-      <br><br>
+      <br><br><br>
       When I'm not immersed in coding or building robots, I enjoy diving into the latest AI research, and playing video games. My goal is to combine my skills in software engineering and robotics to develop cutting edge technologies that can make a real difference.
-    </td>
+      <br><br><br><br><br><br>
+  </td>
     <td>
-      <h1>About Me</h1>
+      <h2>About Me</h2>
+     <br>
       Currently, I am working with Digital Twins and Computer Vision systems, technologies that create virtual replicas of physical systems and enable machines to interpret and understand the visual world. This role allows me to merge my interests in software engineering and robotics, as I develop and optimize these digital models and CV algorithms to improve real-world operations. The ability to simulate, analyze, and predict outcomes using Digital Twins and CV systems fascinates me and drives my passion for innovation.
       <br><br>
       I'm also a hobby game developer with a strong focus on advanced AI data structures like Hierarchical Finite State Machines (HFSM) and Goal-Oriented Action Planning (GOAP). I enjoy developing non-linear level designs that, combined with smarter AI data structures, facilitate more immersive and emergent gameplay experiences. By allowing players to explore and interact with the game world in a more organic and dynamic way, I aim to create environments where unexpected and unique scenarios can unfold, enhancing the overall player experience. My fascination with robotics drives me to continuously learn and experiment in this dynamic field.
       <br><br>
-      <h1>Tech Stack</h1>
+      <h2>Tech Stack</h2>
       <ul>
         <li><strong>Languages:</strong> Python, GDScript, Java, C++, Kotlin</li>
         <li><strong>Frameworks/Libraries:</strong> TensorFlow, PyTorch, PyMeshLab</li>
         <li><strong>Game Engines:</strong> Godot</li>
         <li><strong>Tools:</strong> Blender</li>
       </ul>
+     <br>
     </td>
   </tr>
 </table>
