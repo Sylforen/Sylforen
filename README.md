@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <a href="URL1"><img src="Images/Tech Stack/python.png" alt="Image 1" width="100" height="100"></a>
+  <a href="URL1"><img src="Images/Tech Stack/python-logo-only.png" alt="Image 1" width="100" height="100"></a>
   <a href="URL2"><img src="IMAGE_URL2" alt="Image 2" width="100" height="100"></a>
   <a href="URL3"><img src="IMAGE_URL3" alt="Image 3" width="100" height="100"></a>
 </div>
