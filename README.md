@@ -7,18 +7,41 @@
 
 <div align="center">
 
-| Introduction | About Me |
-|  :---: | :---: |
-| Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. | Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? 
-</div>
+<table>
+  <tr>
+    <td>
+      <h1>Introduction</h1>
+      Hello! I'm Sylforen, and I am currently pursuing a degree in Software Engineering at the University of Newcastle. I come from a background in Chemistry - working for three years as a Lab Rat! I have always had simple curiosity about how things work, which quickly evolved into a deep passion for programming and robotics. I thrive on challenges and love pushing the boundaries of technology to create innovative solutions.
+      <br><br>
+      From a young age, I've been fascinated by the 'hows' and 'whys' of the world around me. This curiosity has driven me to work as a QA/QC Chemist, exploring the intricate mechanisms behind various chemical systems, or given me curiosity into the inner workings of computer systems, or the complex behavior of robotics.
+      <br><br>
+      When I'm not immersed in coding or building robots, I enjoy diving into the latest AI research, and playing video games. My goal is to combine my skills in software engineering and robotics to develop cutting edge technologies that can make a real difference.
+    </td>
+    <td>
+      <h1>About Me</h1>
+      Currently, I am working with Digital Twins and Computer Vision systems, technologies that create virtual replicas of physical systems and enable machines to interpret and understand the visual world. This role allows me to merge my interests in software engineering and robotics, as I develop and optimize these digital models and CV algorithms to improve real-world operations. The ability to simulate, analyze, and predict outcomes using Digital Twins and CV systems fascinates me and drives my passion for innovation.
+      <br><br>
+      I'm also a hobby game developer with a strong focus on advanced AI data structures like Hierarchical Finite State Machines (HFSM) and Goal-Oriented Action Planning (GOAP). I enjoy developing non-linear level designs that, combined with smarter AI data structures, facilitate more immersive and emergent gameplay experiences. By allowing players to explore and interact with the game world in a more organic and dynamic way, I aim to create environments where unexpected and unique scenarios can unfold, enhancing the overall player experience. My fascination with robotics drives me to continuously learn and experiment in this dynamic field.
+      <br><br>
+      <h1>Tech Stack</h1>
+      <ul>
+        <li><strong>Languages:</strong> Python, GDScript, Java, C++, Kotlin</li>
+        <li><strong>Frameworks/Libraries:</strong> TensorFlow, PyTorch, PyMeshLab</li>
+        <li><strong>Game Engines:</strong> Godot</li>
+        <li><strong>Tools:</strong> Blender</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
+</div>
 
 <div>
   <table border="0">
     <tr>
       <td align="center"><a href="https://docs.python.org/3/)"><img src="Images/Tech Stack/python-logo-only.png" alt="Python Logo" hspace="10" width="50" height="50" style="margin: 10px; padding: 5px;"></a></td>
       <td align="center"><a href="https://www.tensorflow.org/api_docs"><img src="Images/Tech Stack/15658638.png" alt="TensorFlow Logo" hspace="10" width="50" height="50" style="margin: 10px; padding: 5px;"></a></td>
-      <td align="center"><a href="https://pytorch.org/docs/stable/index.html"><img src="Images/Tech Stack/Pytorch_logo.png" alt="PyTorch Logo" hspace="30"  width="100" height="40" style="margin: 10px; padding: 5px;"></a></td>
+      <td align="center"><a href="https://pytorch.org/docs/stable/index.html"><img src="Images/Tech Stack/Pytorch_logo.png" alt="PyTorch Logo" hspace="30"  width="75" height="40" style="margin: 10px; padding: 5px;"></a></td>
       <td align="center"><a href="https://docs.godotengine.org/en/stable/"><img src="Images/Tech Stack/gd.png" alt="Godot Logo" hspace="10" width="50" height="50" style="margin: 10px; padding: 5px;"></a></td>
       <td align="center"><a href="https://devdocs.io/cpp/"><img src="Images/Tech Stack/cpp_logo.png" alt="C++ Logo" hspace="10" width="50" height="50" style="margin: 10px; padding: 5px;"></a></td>
       <td align="center"><a href="https://kotlinlang.org/docs/home.html"><img src="Images/Tech Stack/Kotlin Full Color Logo Mark RGB.png" alt="Kotlin Logo" hspace="10" width="50" height="50" style="margin: 10px; padding: 5px;"></a></td>  
