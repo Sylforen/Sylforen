@@ -56,7 +56,7 @@
 
 | | |
 |  :---: | :---: |
-| <img src="https://picsum.photos/500/350" alt="W3Schools.com"> |  <img src="https://picsum.photos/500/350" alt="W3Schools.com"> |
+| <img src="https://picsum.photos/500/350" alt="W3Schools.com"> | [![Sylforen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sylforen)](https://github.com/Sylforen/github-readme-stats) |
 
 </div>
 
@@ -68,6 +68,9 @@
   <a href="URL3"><img src="Images/Social Media/Spotify_Primary_Logo_RGB_Green.png" alt="" width="50" height="50" style="padding: 300px;"></a>
   
 </div>
+
+
+
 
 
 <!--
