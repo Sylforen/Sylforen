@@ -9,7 +9,10 @@
 <table>
   <tr><td><h2>Introduction</h2>
    <br>
-      Hello! I'm Sylforen, and I am currently pursuing a degree in Software Engineering at the University of Newcastle. I come from a background in Chemistry - working for three years as a Lab Rat! I have always had simple curiosity about how things work, which quickly evolved into a deep passion for programming and robotics. I thrive on challenges and love pushing the boundaries of technology to create innovative solutions.
+      Hello! I'm Sylforen, and I am currently pursuing a degree in Software Engineering at the University of Newcastle. I come from a background in Chemistry - working for three years as a QC/QC Chemist with the occasional R&D project. 
+
+<br><br>
+I have always had simple curiosity about how things work, which quickly evolved into a deep passion for programming and robotics. I thrive on challenges and love pushing the boundaries of technology to create innovative solutions.
       <br><br><br>
       From a young age, I've been fascinated by the 'hows' and 'whys' of the world around me. This curiosity has driven me to work as a QA/QC Chemist, exploring the intricate mechanisms behind various chemical systems, or given me curiosity into the inner workings of computer systems, or the complex behavior of robotics.
       <br><br><br>
