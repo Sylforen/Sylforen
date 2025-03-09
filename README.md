@@ -17,7 +17,6 @@ I have always had simple curiosity about how things work, which quickly evolved 
       From a young age, I've been fascinated by the 'hows' and 'whys' of the world around me. This curiosity has driven me to work as a QA/QC Chemist, exploring the intricate mechanisms behind various chemical systems, or given me curiosity into the inner workings of computer systems, or the complex behavior of robotics.
       <br><br><br>
       When I'm not immersed in coding or building robots, I enjoy diving into the latest AI research, and playing video games. My goal is to combine my skills in software engineering and robotics to develop cutting edge technologies that can make a real difference.
-      <br><br><br><br><br><br>
   </td>
     <td>
       <h2>About Me</h2>
