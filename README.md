@@ -62,10 +62,10 @@
 
 <div align="center">
  
-  <a href="URL1"><img src="Images/Social Media/badge-color.png" alt="Image 1"  width="100" height="50" style="padding: 300px;"></a>
-  <a href="URL2"><img src="Images/Social Media/LI-Logo.png" alt="Image 2"  width="100" height="50" style="padding: 300px;"></a>
-  <a href="URL3"><img src="Images/Social Media/Discord-Symbol-Blurple.png" alt="" width="50" height="50" style="padding: 300px;"></a>
-  <a href="URL3"><img src="Images/Social Media/Spotify_Primary_Logo_RGB_Green.png" alt="" width="50" height="50" style="padding: 300px;"></a>
+  <a href="URL1"><img src="Images/Social Media/badge-color.png" alt="Itch.io logo" hspace="20" width="100" height="50" style="padding: 300px;"></a>
+  <a href="URL2"><img src="Images/Social Media/LI-Logo.png" alt="LinkIN logo" hspace="20" width="100" height="50" style="padding: 300px;"></a>
+  <a href="URL3"><img src="Images/Social Media/Discord-Symbol-Blurple.png" alt="Discord Logo" hspace="20" width="50" height="50" style="padding: 300px;"></a>
+  <a href="URL3"><img src="Images/Social Media/Spotify_Primary_Logo_RGB_Green.png" alt="Spotify Logo" hspace="20" width="50" height="50" style="padding: 300px;"></a>
   
 </div>
 
