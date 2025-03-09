@@ -1,6 +1,6 @@
 <div align="center">
 
- <img src="https://picsum.photos/1000/200" alt="W3Schools.com"> 
+ <img src="Images/Gifs/ParallaxGIF.gif" alt="" width="100%" height="250px">
 
 </div>
 
