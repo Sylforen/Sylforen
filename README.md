@@ -11,12 +11,10 @@
    <br>
       Hello! I'm Sylforen, and I am currently pursuing a degree in Software Engineering at the University of Newcastle. I come from a background in Chemistry - working for three years as a QC/QC Chemist with the occasional R&D project. 
 
-<br><br>
-I have always had simple curiosity about how things work, which quickly evolved into a deep passion for programming and robotics. I thrive on challenges and love pushing the boundaries of technology to create innovative solutions.
-      <br><br><br>
-      From a young age, I've been fascinated by the 'hows' and 'whys' of the world around me. This curiosity has driven me to work as a QA/QC Chemist, exploring the intricate mechanisms behind various chemical systems, or given me curiosity into the inner workings of computer systems, or the complex behavior of robotics.
-      <br><br><br>
-      When I'm not immersed in coding or building robots, I enjoy diving into the latest AI research, and playing video games. My goal is to combine my skills in software engineering and robotics to develop cutting edge technologies that can make a real difference.
+   <br><br>
+   From a young age, I've always needed to know how things worked, and how those things worked, and what those things were made of. This curiosity is why I initially pursued a double major in Chemistry/Psycholgy but I ended up swapping my PSYC units for BIOL when I discovered CRISPR.
+   <br><br><br>
+   I stepped away from studying chemistry just before the lockdown, and stepped away from undergrad entirely for the lockdown years. But came back in 2024 initially with Comp. Sci, before switching to Software Engineering. 
   </td>
     <td>
       <h2>About Me</h2>
