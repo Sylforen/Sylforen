@@ -21,15 +21,17 @@
      <br>
       Currently, I am working with Digital Twins and Computer Vision systems, technologies that create virtual replicas of physical systems and enable machines to interpret and understand the visual world. This role allows me to merge my interests in software engineering and robotics, as I develop and optimize these digital models and CV algorithms to improve real-world operations. The ability to simulate, analyze, and predict outcomes using Digital Twins and CV systems fascinates me and drives my passion for innovation.
       <br><br>
-      I'm also a hobby game developer with a strong focus on advanced AI data structures like Hierarchical Finite State Machines (HFSM) and Goal-Oriented Action Planning (GOAP). I enjoy developing non-linear level designs that, combined with smarter AI data structures, facilitate more immersive and emergent gameplay experiences. By allowing players to explore and interact with the game world in a more organic and dynamic way, I aim to create environments where unexpected and unique scenarios can unfold, enhancing the overall player experience. My fascination with robotics drives me to continuously learn and experiment in this dynamic field.
+     I'm an aspiring AI programmer and technical designer with a strong interest in building intelligent systems and dynamic gameplay experiences. I work with decision-making architectures such as behavior trees (BT) and goal-oriented action planning (GOAP) to design agents that act and react in believable ways. On the machine learning side, I’ve developed and trained models using convolutional neural networks (CNNs) and deep Q-networks (DQN) to enable adaptive behaviors and learning in interactive environments. Besides working on AI agents, I love exploring ways to make game levels feel fresh and exciting every time you play. Using non-linear level design with procedural generation (NLLD-PCG). Ultimately, I want to work on game systems that keep the player engaged while offering new challenges and experiences without repetitive gameplay loops.
       <br><br>
       <h2>Tech Stack</h2>
-      <ul>
-        <li><strong>Languages:</strong> Python, GDScript, Java, C++, Kotlin</li>
-        <li><strong>Frameworks/Libraries:</strong> TensorFlow, PyTorch, PyMeshLab</li>
-        <li><strong>Game Engines:</strong> Godot</li>
-        <li><strong>Tools:</strong> Blender</li>
-      </ul>
+<ul>
+  <li>Languages: Python, GDScript, Java, C++, Kotlin</li>
+  <li>Frameworks & Libraries: TensorFlow, PyTorch, Gymnasium, NumPy, Pandas, OpenCV, Matplotlib</li>
+  <li>Game Engines & Tools: Godot, Pygame, Blender</li>
+  <li>Development Tools: Jupyter, VS Code, Git</li>
+</ul>
+<br>
+
      <br>
     </td>
   </tr>
