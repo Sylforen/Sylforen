@@ -1,69 +1,60 @@
-<!DOCTYPE html>
-<html lang="en">
+# <div align="center">Hi, I'm Sylforen!</div>
 
-<body>
-
-  <h1>Hi, I'm Sylforen!</h1>
-
- <div align="center" style="width: 100%; margin: 20px 0;">
+<div align="center" style="width: 100%; margin: 20px 0;">
   <img src="./Images/Gifs/ParallaxGIF.gif" alt="ParallaxGIF" style="width: 100%; max-width: 100%; height: auto; display: block;"/>
 </div>
-  <hr />
 
-  <h2>Introduction</h2>
-  <p>
-    Hello! I'm Sylforen, currently pursuing a degree in Software Engineering at the University of Newcastle.
-    I come from a background in Chemistry, having worked for three years as a QC/QC Chemist with occasional R&D projects.
-    From a young age, I’ve always been driven by curiosity—wanting to know how things work, how they work, and what they’re made of.
-    This passion initially led me to pursue a double major in Chemistry and Psychology, but after discovering CRISPR,
-    I swapped Psychology for Biology.
-  </p>
-  <p>
-    I stepped away from studying chemistry just before the lockdown and took a break from university entirely during the lockdown years.
-    In 2024, I returned to study, starting with Computer Science before switching to Software Engineering.
-  </p>
+---
 
-  <hr />
+## <div align="center">Introduction</div>
 
-  <h2>About Me</h2>
-  <p>
-    Right now, I’m working with Digital Twins and Computer Vision systems—technologies that create virtual replicas of physical systems
-    and help machines “see” and understand the world around them. This job lets me bring together my love for software engineering and robotics by:
-  </p>
-  <ul>
-    <li>Building and improving virtual models and computer vision tools that make real-world systems smarter</li>
-    <li>Using these tools to simulate and predict how things might behave, which is both challenging and exciting</li>
-  </ul>
-  <p>Alongside that, I’m diving into AI programming and technical design, focusing on making game agents that feel natural and dynamic.
-    Some of what I’m doing includes:
-  </p>
-  <ul>
-    <li>Creating AI behaviors with behavior trees (BT) and goal-oriented action planning (GOAP) so characters react in believable ways</li>
-    <li>Training machine learning models with convolutional neural networks (CNNs) and deep Q-networks (DQN) to make games that learn and adapt</li>
-    <li>Experimenting with procedural generation for non-linear level design (NLLD-PCG) to keep gameplay fresh and surprising</li>
-  </ul>
-  <p>At the end of the day, I want to work on game systems that keep players engaged by offering new challenges and experiences without getting stuck in repetitive loops.</p>
+Hello! I'm Sylforen, currently pursuing a degree in Software Engineering at the University of Newcastle.
+I come from a background in Chemistry, having worked for three years as a QC/QC Chemist with occasional R&D projects.
+From a young age, I've always been driven by curiosity—wanting to know how things work, how they work, and what they're made of.
+This passion initially led me to pursue a double major in Chemistry and Psychology, but after discovering CRISPR,
+I swapped Psychology for Biology.
 
-  <hr />
+I stepped away from studying chemistry just before the lockdown and took a break from university entirely during the lockdown years.
+In 2024, I returned to study, starting with Computer Science before switching to Software Engineering.
 
-  <h2>Tech Stack</h2>
+---
 
-  <p><strong>Languages:</strong><br />
-    Python, GDScript, Java, C++, Kotlin
-  </p>
-  <p><strong>Frameworks & Libraries:</strong><br />
-    TensorFlow, PyTorch, Gymnasium, NumPy, Pandas, OpenCV, Matplotlib
-  </p>
-  <p><strong>Game Engines & Tools:</strong><br />
-    Godot, Pygame, Blender
-  </p>
-  <p><strong>Development Tools:</strong><br />
-    Jupyter, VS Code, Git, GitHub
-  </p>
+## <div align="center">About Me</div>
 
-  <hr />
+Right now, I'm working with Digital Twins and Computer Vision systems—technologies that create virtual replicas of physical systems
+and help machines "see" and understand the world around them. This job lets me bring together my love for software engineering and robotics by:
 
-## Technologies I Work With
+- Building and improving virtual models and computer vision tools that make real-world systems smarter
+- Using these tools to simulate and predict how things might behave, which is both challenging and exciting
+
+Alongside that, I'm diving into AI programming and technical design, focusing on making game agents that feel natural and dynamic.
+Some of what I'm doing includes:
+
+- Creating AI behaviors with behavior trees (BT) and goal-oriented action planning (GOAP) so characters react in believable ways
+- Training machine learning models with convolutional neural networks (CNNs) and deep Q-networks (DQN) to make games that learn and adapt
+- Experimenting with procedural generation for non-linear level design (NLLD-PCG) to keep gameplay fresh and surprising
+
+At the end of the day, I want to work on game systems that keep players engaged by offering new challenges and experiences without getting stuck in repetitive loops.
+
+---
+
+## <div align="center">Tech Stack</div>
+
+**Languages:**  
+Python, GDScript, Java, C++, Kotlin
+
+**Frameworks & Libraries:**  
+TensorFlow, PyTorch, Gymnasium, NumPy, Pandas, OpenCV, Matplotlib
+
+**Game Engines & Tools:**  
+Godot, Pygame, Blender
+
+**Development Tools:**  
+Jupyter, VS Code, Git, GitHub
+
+---
+
+## <div align="center">Technologies I Work With</div>
 
 <p align="center">
   <a href="https://docs.python.org/3/">
@@ -99,8 +90,10 @@
   </a>
 </p>
 
-  <h2>GitHub Stats</h2>
-  <table class="github-stats">
+## <div align="center">GitHub Stats</div>
+
+<div align="center">
+  <table>
     <tr>
       <td>
         <img src="https://picsum.photos/500/350" alt="Random Image" />
@@ -112,10 +105,11 @@
       </td>
     </tr>
   </table>
+</div>
 
-  <hr />
+---
 
-  ## Find Me On
+## <div align="center">Find Me On</div>
 
 <div align="center">
   <p>
@@ -136,6 +130,3 @@
     </a>
   </p>
 </div>
-
-</body>
-</html>
