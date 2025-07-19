@@ -25,22 +25,6 @@ At the end of the day, I want to work on game systems that keep players engaged 
 
 ---
 
-## <div align="center">Tech Stack</div>
-
-**Languages:**  
-Python, GDScript, Java, C++, Kotlin
-
-**Frameworks & Libraries:**  
-TensorFlow, PyTorch, Gymnasium, NumPy, Pandas, OpenCV, Matplotlib
-
-**Game Engines & Tools:**  
-Godot, Pygame, Blender
-
-**Development Tools:**  
-Jupyter, VS Code, Git, GitHub
-
----
-
 ## <div align="center">Technologies I Work With</div>
 
 <p align="center">
