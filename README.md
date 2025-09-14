@@ -8,20 +8,16 @@
 
 ## <div align="center">Introduction</div>
 
-Right now, I'm working with Digital Twins and Computer Vision systems—technologies that create virtual replicas of physical systems
-and help machines "see" and understand the world around them. This job lets me bring together my love for software engineering and robotics by:
 
-- Building and improving virtual models and computer vision tools that make real-world systems smarter
-- Using these tools to simulate and predict how things might behave, which is both challenging and exciting
+| BEng Software Engineering (Hon.) @ UoN 
+| Software Engineering Intern @ Orica Digital Solutions
+| Robotics Engineer @ NUBots 
 
-Alongside that, I'm diving into AI programming and technical design, focusing on making game agents that feel natural and dynamic.
-Some of what I'm doing includes:
+Right now, I’m working with Digital Twins and Computer Vision systems—technologies that create virtual replicas of physical systems and help machines “see” and understand the world around them. At Orica, I’m developing a digital twin for rock fragmentation systems and contributing to FRAGTrack™, Orica’s state-of-the-art fragmentation measurement tool. My focus is on building high-fidelity virtual environments that replicate real-world blasting scenarios, enabling robust data generation to train and enhance computer vision models for improved blast analysis and optimisation.
 
-- Creating AI behaviors with behavior trees (BT) and goal-oriented action planning (GOAP)
-- Training machine learning models with convolutional neural networks (CNNs) and deep Q-networks (DQN)
-- Experimenting with procedural generation for non-linear level design via procedural generation (NLLD-PCG)
+Along the way, I’ve made major breakthroughs by integrating advanced physics simulation systems and designing methods to quantitatively measure digital rock fragmentation particle size distributions (PSD), helping to make computer vision training pipelines more accurate and scalable.
 
-At the end of the day, I want to work on game systems that keep players engaged by offering new challenges and experiences without getting stuck in repetitive loops.
+Outside of Orica, I volunteer as a Robotics Systems Engineer with NUBots, where I work on AI, perception, and control systems to push the boundaries of autonomous robot soccer. I also explore AI programming, robotics, and game development—applying techniques like behavior trees (BT), goal-oriented action planning (GOAP), and deep reinforcement learning (DQN) to build intelligent, dynamic systems.
 
 ---
 
@@ -66,9 +62,9 @@ At the end of the day, I want to work on game systems that keep players engaged 
 <div align="center">
   <table>
     <tr>
-      <td>
+<!--       <td>
         <img src="https://picsum.photos/500/350" alt="Random Image" />
-      </td>
+      </td> -->
       <td>
         <a href="https://github.com/Sylforen/github-readme-stats">
           <img src="https://github-readme-stats.vercel.app/api?username=Sylforen" alt="Sylforen's GitHub stats" />
