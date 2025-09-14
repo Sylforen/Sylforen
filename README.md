@@ -9,7 +9,7 @@
 ## <div align="center">Introduction</div>
 
 
-| BEng Software Engineering (Hon.) @ UoN 
+BEng Software Engineering (Hon.) @ UoN 
 | Software Engineering Intern @ Orica Digital Solutions
 | Robotics Engineer @ NUBots 
 
