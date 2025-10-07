@@ -62,9 +62,9 @@ Outside of Orica, I volunteer as a Robotics Systems Engineer with NUBots, where 
 <div align="center">
   <table>
     <tr>
-<!--       <td>
-        <img src="https://picsum.photos/500/350" alt="Random Image" />
-      </td> -->
+      <td>
+        <img src=episode.mp4 alt="Learning Mario DQN" />
+      </td>
       <td>
         <a href="https://github.com/Sylforen/github-readme-stats">
           <img src="https://github-readme-stats.vercel.app/api?username=Sylforen" alt="Sylforen's GitHub stats" />
