@@ -63,7 +63,7 @@ Outside of Orica, I volunteer as a Robotics Systems Engineer with NUBots, where 
   <table>
     <tr>
       <td>
-        <img src=episode.mp4 alt="Learning Mario DQN" />
+        <img src=Images/episode.mp4 alt="Learning Mario DQN" />
       </td>
       <td>
         <a href="https://github.com/Sylforen/github-readme-stats">
