@@ -63,7 +63,7 @@ Outside of Orica, I volunteer as a Robotics Systems Engineer with NUBots, where 
   <table>
     <tr>
       <td>
-        <img src="./Images/episode.gif" alt="Episode GIF" width="400"/>
+        <img src="./Images/best_run.gif" alt="Episode GIF" width="400"/>
       </td>
       <td>
         <a href="https://github.com/Sylforen/github-readme-stats">
