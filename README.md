@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-BEng Software (Hon.) @ UoN | Machine Learning Engineer @ Orica Digital Solutions | Vision & Behaviour Engineer @ NUBots
+BEng Software @ UoN | ML Engineer @ Orica Digital Solutions | Vision & Behaviour @ NUBots
 </p>
 
 <br>
