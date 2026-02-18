@@ -6,9 +6,9 @@
 
 ---
 
-<p align="center">
+
 BEng Software Engineering (Hon.) @ UoN | Software Engineering Intern @ Orica Digital Solutions | Robotics Engineer @ NUBots
-</p>
+
 
 <br>
 <br>
