@@ -52,22 +52,20 @@ Outside of work, I volunteer as a Robotics Systems Engineer with NUBots, where I
 
 
 ---
-
 <div align="center">
-  <table>
-    <tr>
-      <td style="width: 450px; vertical-align: top;">
-        <img src="./Images/best_run.gif" alt="Episode GIF" width="350" style="float: left; margin-right: 10px;"/>
-        <p style="text-align: justify; margin: 0;">
-          vectorised approach to ε-greedy RL policy, first completion after 17 epochs, this gif is 50th (super-mario-bros-gym + openCV)
-        </p>
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sylforen&theme=tokyonight&hide_border=false&border_radius=10&fire=🔥" alt="Sylforen's GitHub Streak Stats" />
-      </td>
-    </tr>
-  </table>
+  <div style="width: 400px; margin: auto; text-align: center;">
+    <img src="./Images/best_run.gif" alt="Episode GIF" width="350" style="display: block; margin: 0 auto;"/>
+    <p style="font-size: 0.9em; font-style: italic; margin-top: 5px; text-align: center;">
+      vectorised approach to ε-greedy RL policy, first completion after 17 epochs, this gif is 50th (super-mario-bros-gym + openCV)
+    </p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sylforen&theme=tokyonight&hide_border=false&border_radius=10&fire=🔥" 
+         alt="Sylforen's GitHub Streak Stats" 
+         style="display: block; margin: 20px auto 0 auto;"/>
+  </div>
 </div>
+
+
+
 
 
 
