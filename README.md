@@ -21,7 +21,7 @@ Outside of Orica, I volunteer as a Robotics Systems Engineer with NUBots, where 
 
 ---
 
-## <div align="center">Technologies I Work With</div>
+## <div align="center">Tech Stack</div>
 
 <p align="center">
   <a href="https://docs.python.org/3/">
