@@ -66,13 +66,13 @@ Outside of Orica, I volunteer as a Robotics Systems Engineer with NUBots, where 
         <img src="./Images/best_run.gif" alt="Episode GIF" width="400"/>
       </td>
       <td>
-        <a href="https://github.com/Sylforen/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=Sylforen" alt="Sylforen's GitHub stats" />
-        </a>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sylforen&theme=tokyonight&hide_border=false&border_radius=10&fire=🔥" alt="Sylforen's GitHub Streak Stats" />
       </td>
     </tr>
   </table>
 </div>
+
+
 
 ---
 
