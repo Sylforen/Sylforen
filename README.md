@@ -6,7 +6,7 @@
 
 ---
 
-## <div align="center">Introduction</div>
+## <div align="center">About Me:</div>
 
 
 BEng Software Engineering (Hon.) @ UoN 
