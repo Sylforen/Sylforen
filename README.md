@@ -35,6 +35,7 @@ BEng (Software) @ UoN | ML Engineer @ Orica Digital Solutions | Vision & Behavio
   <a href="https://www.blender.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="50"/></a>&nbsp;
   <a href="https://www.arduino.cc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="50"/></a>
 </p>
+
 ---
 
 <div align="center">
