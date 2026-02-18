@@ -72,8 +72,6 @@ Outside of work, I volunteer as a Robotics Systems Engineer with NUBots, where I
 
 ---
 
-## <div align="center">Find Me On</div>
-
 <div align="center">
   <p>
     <!-- Itch.io -->
