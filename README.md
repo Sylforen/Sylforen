@@ -56,8 +56,8 @@ Outside of work, I volunteer as a Robotics Systems Engineer with NUBots, where I
 <div align="center">
   <table>
     <tr>
-      <td style="width: 300px; vertical-align: top;">
-        <img src="./Images/best_run.gif" alt="Episode GIF" width="300" style="float: left; margin-right: 10px;"/>
+      <td style="width: 450px; vertical-align: top;">
+        <img src="./Images/best_run.gif" alt="Episode GIF" width="350" style="float: left; margin-right: 10px;"/>
         <p style="text-align: justify; margin: 0;">
           vectorised approach to ε-greedy RL policy, first completion after 17 epochs, this gif is 50th (super-mario-bros-gym + openCV)
         </p>
