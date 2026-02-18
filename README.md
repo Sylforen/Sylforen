@@ -1,5 +1,3 @@
-# <div align="center">Hi, I'm Sylforen!</div>
-
 <div align="center" style="width: 100%; margin: 20px 0;">
   <img src="./Images/Gifs/ParallaxGIF.gif" alt="ParallaxGIF" style="width: 100%; max-width: 100%; height: auto; display: block;"/>
 </div>
