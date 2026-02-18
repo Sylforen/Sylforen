@@ -56,7 +56,7 @@ Outside of work, I volunteer as a Robotics Systems Engineer with NUBots, where I
   <div style="width: 400px; margin: auto; text-align: center;">
     <img src="./Images/best_run.gif" alt="Episode GIF" width="350" style="display: block; margin: 0 auto;"/>
     <p style="font-size: 0.9em; font-style: italic; margin-top: 5px; text-align: center;">
-      vectorised approach to ε-greedy RL policy, first completion after 17 epochs, this gif is 50th (super-mario-bros-gym + openCV)
+      vectorised sprite detection with an ε-greedy RL policy; first completion after 17 epochs, this gif is 50th (super-mario-bros-gym + openCV)
     </p>
     <hr>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sylforen&theme=tokyonight&hide_border=false&border_radius=10&fire=🔥" 
