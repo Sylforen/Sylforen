@@ -2,21 +2,17 @@
   <img src="./Images/Gifs/ParallaxGIF.gif" alt="ParallaxGIF" style="width: 100vw; max-height: 50vh; height: 33vh; display: block;"/>
 </div>
 
-
-
 ---
-
+<br>
 
 <p align="center">
 BEng Software (Hon.) @ UoN | Machine Learning Engineer @ Orica Digital Solutions | Vision & Behaviour Engineer @ NUBots
 </p>
 
-
-
-<br>
 <br>
 
 ---
+
 <p align="center">
   <!-- Programming Languages -->
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"/></a>&nbsp;
@@ -40,9 +36,8 @@ BEng Software (Hon.) @ UoN | Machine Learning Engineer @ Orica Digital Solutions
   <a href="https://www.arduino.cc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="50"/></a>
 </p>
 
-
-
 ---
+
 <div align="center">
   <div style="width: 400px; margin: auto; text-align: center;">
     <img src="./Images/best_run.gif" alt="Episode GIF" width="350" style="display: block; margin: 0 auto;"/>
@@ -53,12 +48,14 @@ BEng Software (Hon.) @ UoN | Machine Learning Engineer @ Orica Digital Solutions
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sylforen&theme=tokyonight&hide_border=false&border_radius=10&fire=🔥" 
          alt="Sylforen's GitHub Streak Stats" 
          style="display: block; margin: 20px auto 0 auto;"/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sylforen&theme=tokyonight" />
+    </div>
+
+ 
+
+
   </div>
   
-</div>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sylforen&theme=tokyonight" />
-</p>
 
 
 
