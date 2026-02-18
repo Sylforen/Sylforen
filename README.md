@@ -1,61 +1,55 @@
-<div align="center" style="width: 100%; margin: 20px 0;">
-  <img src="./Images/Gifs/ParallaxGIF.gif" alt="ParallaxGIF" style="width: 100%; max-width: 100%; height: auto; display: block;"/>
+<div align="center" style="width: 100vw; margin: 0; padding: 0;">
+  <img src="./Images/Gifs/ParallaxGIF.gif" alt="ParallaxGIF" style="width: 100vw; max-height: 50vh; height: 33vh; display: block;"/>
 </div>
+
+
 
 ---
 
-## <div align="center">About Me:</div>
+<p align="center">
+BEng Software Engineering (Hon.) @ UoN | Software Engineering Intern @ Orica Digital Solutions | Robotics Engineer @ NUBots
+</p>
 
-
-BEng Software Engineering (Hon.) @ UoN 
-| Software Engineering Intern @ Orica Digital Solutions
-| Robotics Engineer @ NUBots 
+<br>
+<br>
 
 Right now, I’m working with Digital Twins and Computer Vision systems—technologies that create virtual replicas of physical systems and help machines “see” and understand the world around them. At Orica, I’m developing a digital twin for rock fragmentation systems and contributing to FRAGTrack™, Orica’s state-of-the-art fragmentation measurement tool. My focus is on building high-fidelity virtual environments that replicate real-world blasting scenarios, enabling robust data generation to train and enhance computer vision models for improved blast analysis and optimisation.
 
-Along the way, I’ve made major breakthroughs by integrating advanced physics simulation systems and designing methods to quantitatively measure digital rock fragmentation particle size distributions (PSD), helping to make computer vision training pipelines more accurate and scalable.
+<br>
 
-Outside of Orica, I volunteer as a Robotics Systems Engineer with NUBots, where I work on AI, perception, and control systems to push the boundaries of autonomous robot soccer. I also explore AI programming, robotics, and game development—applying techniques like behavior trees (BT), goal-oriented action planning (GOAP), and deep reinforcement learning (DQN) to build intelligent, dynamic systems.
+Along the way, I’ve made major breakthroughs by integrating advanced custom physics simulation systems/solvers, designing methods to quantitatively measure digital rock fragmentation particle size distributions (PSD), and building a high-fidelity synthetic data generation pipeline, helping to make computer vision training pipelines more accurate and scalable.
+
+<br>
+
+Outside of work, I volunteer as a Robotics Systems Engineer with NUBots, where I work with the Vision and Reinforcement Learning teams to compete on the world's stage with autonomous humanoid robotic soccer.
+
+<br>
 
 ---
 
-## <div align="center">Tech Stack</div>
-
 <p align="center">
-  <a href="https://docs.python.org/3/">
-    <img src="./Images/Tech%20Stack/python-logo-only.png" alt="Python" width="60"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.tensorflow.org/api_docs">
-    <img src="./Images/Tech%20Stack/15658638.png" alt="TensorFlow" width="60"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://pytorch.org/docs/stable/index.html">
-    <img src="./Images/Tech%20Stack/Pytorch_logo.png" alt="PyTorch" width="90"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://docs.godotengine.org/en/stable/">
-    <img src="./Images/Tech%20Stack/gd.png" alt="Godot" width="60"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://devdocs.io/cpp/">
-    <img src="./Images/Tech%20Stack/cpp_logo.png" alt="C++" width="60"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://kotlinlang.org/docs/home.html">
-    <img src="./Images/Tech%20Stack/Kotlin%20Full%20Color%20Logo%20Mark%20RGB.png" alt="Kotlin" width="60"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://docs.oracle.com/javase/8/docs/api/">
-    <img src="./Images/Tech%20Stack/java-logo.jpg" alt="Java" width="60"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://docs.blender.org/api/current/">
-    <img src="./Images/Tech%20Stack/blender_logo.png" alt="Blender" width="90"/>
-  </a>
+  <!-- Programming Languages -->
+  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60"/></a>&nbsp;
+  <a href="https://docs.oracle.com/javase/8/docs/api/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60"/></a>&nbsp;
+  <a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60"/></a>&nbsp;
+  <a href="https://kotlinlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="60"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60"/></a>&nbsp;
+  <!-- AI / ML -->
+  <a href="https://pytorch.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="60"/></a>&nbsp;
+  <!-- Backend / DevOps -->
+  <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60"/></a>&nbsp;
+  <!-- Tools / IDEs -->
+  <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60"/></a>&nbsp;
+  <a href="https://www.jetbrains.com/pycharm/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="60"/></a>&nbsp;
+  <!-- Game / 3D / Embedded -->
+  <a href="https://godotengine.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot" width="60"/></a>&nbsp;
+  <a href="https://www.blender.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="60"/></a>&nbsp;
+  <a href="https://www.arduino.cc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="60"/></a>
 </p>
 
-## <div align="center">GitHub Stats</div>
+---
 
 <div align="center">
   <table>
@@ -78,20 +72,25 @@ Outside of Orica, I volunteer as a Robotics Systems Engineer with NUBots, where 
 
 <div align="center">
   <p>
-    <a href="URL1">
-      <img src="./Images/Social%20Media/badge-color.png" alt="Itch.io" width="100" height="50"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="URL2">
-      <img src="./Images/Social%20Media/LI-Logo.png" alt="LinkedIn" width="100" height="50"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="URL3">
-      <img src="./Images/Social%20Media/Discord-Symbol-Blurple.png" alt="Discord" width="50" height="50"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="URL4">
-      <img src="./Images/Social%20Media/Spotify_Primary_Logo_RGB_Green.png" alt="Spotify" width="50" height="50"/>
+    <!-- Itch.io -->
+    <a href="URL1" target="_blank">
+      <img src="https://static.itch.io/images/badge-color.svg" alt="Itch.io" width="180" height="120"/>
+    </a>&nbsp;&nbsp;&nbsp;
+    <!-- LinkedIn (colour PNG) -->
+    <a href="URL2" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="60" height="60"/>
+    </a>&nbsp;&nbsp;&nbsp;
+    <!-- Discord -->
+    <a href="URL3" target="_blank">
+      <img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" width="60" height="60"/>
+    </a>&nbsp;&nbsp;&nbsp;
+    <!-- Spotify -->
+    <a href="URL4" target="_blank">
+      <img src="https://cdn.simpleicons.org/spotify/1ED760" alt="Spotify" width="60" height="60"/>
     </a>
   </p>
 </div>
+
+
+
+
