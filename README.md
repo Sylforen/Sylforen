@@ -7,7 +7,10 @@
 ---
 
 
-BEng Software Engineering (Hon.) @ UoN | Software Engineering Intern @ Orica Digital Solutions | Robotics Engineer @ NUBots
+<p align="center">
+BEng Software (Hon.) @ UoN | Machine Learning Engineer @ Orica Digital Solutions | Vision & Behaviour Engineer @ NUBots
+</p>
+
 
 
 <br>
