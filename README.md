@@ -13,18 +13,6 @@ BEng Software Engineering (Hon.) @ UoN | Software Engineering Intern @ Orica Dig
 <br>
 <br>
 
-Right now, I’m working with Digital Twins and Computer Vision systems, technologies that create virtual replicas of physical systems and help machines “see” and understand the world around them. At Orica, I’m developing a digital twin for rock fragmentation systems and contributing to FRAGTrack™, Orica’s state-of-the-art fragmentation measurement tool. My focus is on building high-fidelity virtual environments that replicate real-world blasting scenarios, enabling a robust synthetic data generation pipeline to train and enhance computer vision models for improved blast analysis and optimisation downstream.
-
-<br>
-
-Along the way, I’ve made major breakthroughs by integrating advanced custom physics simulation systems/solvers, designing methods to quantitatively measure digital rock fragmentation particle size distributions (PSD), and building a high-fidelity synthetic data generation pipeline, helping to make computer vision training pipelines more accurate and scalable.
-
-<br>
-
-Outside of work, I volunteer as a Robotics Systems Engineer with NUBots, where I work with the Vision and Reinforcement Learning teams to compete on the world's stage at autonomous humanoid robotic soccer. 
-
-<br>
-
 ---
 <p align="center">
   <!-- Programming Languages -->
