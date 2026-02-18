@@ -63,7 +63,12 @@ Outside of work, I volunteer as a Robotics Systems Engineer with NUBots, where I
          alt="Sylforen's GitHub Streak Stats" 
          style="display: block; margin: 20px auto 0 auto;"/>
   </div>
+  
 </div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sylforen&theme=tokyonight" />
+</p>
+
 
 
 
