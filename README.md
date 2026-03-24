@@ -72,17 +72,13 @@ BEng (Software) Student @ UoN | ML Engineer @ Orica Digital Solutions | Vision &
       <img src="https://static.itch.io/images/badge-color.svg" alt="Itch.io" width="180" height="120"/>
     </a>&nbsp;&nbsp;&nbsp;
     <!-- LinkedIn (colour PNG) -->
-    <a href="URL2" target="_blank">
+    <a href="https://www.linkedin.com/in/austin-bagnall-91bab6380/?skipRedirect=true" target="[_blank](https://www.linkedin.com/in/austin-bagnall-91bab6380/?skipRedirect=true)">
       <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="60" height="60"/>
     </a>&nbsp;&nbsp;&nbsp;
     <!-- Discord -->
-    <a href="URL3" target="_blank">
+    <a href="https://discord.com/users/182810619664269312" target="https://discord.com/users/182810619664269312">
       <img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" width="60" height="60"/>
     </a>&nbsp;&nbsp;&nbsp;
-    <!-- Spotify -->
-    <a href="URL4" target="_blank">
-      <img src="https://cdn.simpleicons.org/spotify/1ED760" alt="Spotify" width="60" height="60"/>
-    </a>
   </p>
 </div>
 
