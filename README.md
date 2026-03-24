@@ -68,7 +68,7 @@ BEng (Software) Student @ UoN | ML Engineer @ Orica Digital Solutions | Vision &
 <div align="center">
   <p>
     <!-- Itch.io -->
-    <a href="URL1" target="https://sylforen.itch.io/">
+    <a href="https://sylforen.itch.io/" target="https://sylforen.itch.io/">
       <img src="https://static.itch.io/images/badge-color.svg" alt="Itch.io" width="180" height="120"/>
     </a>&nbsp;&nbsp;&nbsp;
     <!-- LinkedIn (colour PNG) -->
