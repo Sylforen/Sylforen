@@ -80,7 +80,7 @@ BEng (Software) Student @ UoN | ML Engineer @ Orica Digital Solutions | Vision &
     <a href="https://sylforen.itch.io/" target="https://sylforen.itch.io/">
       <img src="https://static.itch.io/images/badge-color.svg" alt="Itch.io" width="180" height="120"/>
     </a>&nbsp;&nbsp;&nbsp;
-    <!-- LinkedIn (colour PNG) -->
+    <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/austin-bagnall-91bab6380/?skipRedirect=true" target="[_blank](https://www.linkedin.com/in/austin-bagnall-91bab6380/?skipRedirect=true)">
       <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="60" height="60"/>
     </a>&nbsp;&nbsp;&nbsp;
