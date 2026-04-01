@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-BEng (Software) Student @ UoN | ML Engineer @ Orica Digital Solutions | Vision & Behaviour @ NUBots
+| BEng (Software) Student @ UoN | ML Engineer @ Orica Digital Solutions | Vision & Behaviour @ NUBots | Casual Academic @ UoN |
 </p>
 
 <br>
