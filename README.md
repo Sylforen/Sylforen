@@ -61,23 +61,18 @@
     </div>
 
  
-
-
   </div>
   
 ---
 
 <div align="center">
   <p>
-    <!-- Itch.io -->
     <a href="https://sylforen.itch.io/" target="https://sylforen.itch.io/">
       <img src="https://static.itch.io/images/badge-color.svg" alt="Itch.io" width="180" height="120"/>
     </a>&nbsp;&nbsp;&nbsp;
-    <!-- LinkedIN -->
     <a href="https://www.linkedin.com/in/austin-bagnall-91bab6380/?skipRedirect=true" target="[_blank](https://www.linkedin.com/in/austin-bagnall-91bab6380/?skipRedirect=true)">
       <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="60" height="60"/>
     </a>&nbsp;&nbsp;&nbsp;
-    <!-- Discord -->
     <a href="https://discord.com/users/182810619664269312" target="https://discord.com/users/182810619664269312">
       <img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" width="60" height="60"/>
     </a>&nbsp;&nbsp;&nbsp;
