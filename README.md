@@ -1,7 +1,6 @@
 <div align="center" style="width: 100vw; margin: 0; padding: 0;">
   <img src="./Images/Gifs/ParallaxGIF.gif" alt="ParallaxGIF" style="width: 100vw; max-height: 30vh; height: 25vh; display: block;"/>
 </div>
-
 ---
 
 <br>
