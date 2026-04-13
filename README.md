@@ -2,6 +2,7 @@
   <img src="./Images/Gifs/ParallaxGIF.gif" alt="ParallaxGIF" style="width: 100vw; max-height: 30vh; height: 25vh; display: block;"/>
 </div>
 
+
 ---
 
 <br>
